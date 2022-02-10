@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb6827d28E83a7a1A82A6EE12C49Bc8b66832646F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb6827d28e83a7a1a82a6ee12c49bc8b66832646f",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Mallo Test",
+  "SYMBOL": "MLLT",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mallo-test",
+  "SHOW_BACKGROUND": true
+}
